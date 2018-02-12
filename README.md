@@ -5,6 +5,7 @@ Working with machine learning to solve problems in cyber security
 Machine learning is an emerging technique that allows for accomplishing objectives without inherent programming.  Data sets are used to train the algorithm to accomplish the data scientists goals.
 Machine learning has been used to solve countless problems in cyber security.  INSERT EXAMPLES
 This project hopes to extend the use of machine learning to cyber intelligence efforts.  Tracking threat actors has always been an activity that requires extremely detailed knowledge of the attack and the previous attackers work.  Using machine learning in an categorization fashion I hope to automate some of the basics of threat intelligence.
+I plan on making the results an open source solution with a repeatable envirnoment for collecting indicators.  The product will hopefully help areas of cyber security that might not have access to high end threat intel offered by companies like fireye.
 
 ## Project Timeline
 - Selection of the machine learning algorithms
