@@ -9,6 +9,7 @@ This project hopes to extend the use of machine learning to cyber intelligence e
 ## Project Timeline
 - Selection of the machine learning algorithms
 - Investigation into threat intelligence automation
+- Lab environment creation
  - Collection of data samples
  - Basic implementation of machine learning on data samples
  - Advanced threat intelligence implementation of machine learning
